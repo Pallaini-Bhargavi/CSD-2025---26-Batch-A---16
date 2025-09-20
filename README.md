@@ -1,1 +1,1 @@
-# Decentralised Peer-to-Peer Energy Trading
+# Dynamic Energy Trading with Blockchain
